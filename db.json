@@ -77,7 +77,26 @@
       "viewCount": 1587
     },
     {
-      "id": "A1B2C3D4-EFGH-5678-IJKL-9MNOPQRSTU",
+      "id": "E7E5E1D9-9882-4D7E-B46B-6BC987DA8EEF",
+      "title": "AI-Powered Healthcare: A New Era of Medical Innovation",
+      "slug": "ai-healthcare",
+      "subtitle": "Artificial intelligence is revolutionizing diagnostics and treatment planning.",
+      "publishedAt": "2025-02-21T16:30:00Z",
+      "newsDate": "2025-02-21T14:15:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Healthcare is experiencing a transformation with AI-driven tools improving accuracy and efficiency.",
+      "source": "TRT World",
+      "tags": ["AI", "Healthcare", "Medical Technology"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800678/TRTWORLD/21380847_0-39-828-466_zgmk7c.jpg",
+      "category": "Health",
+      "content": "<h1>AI in Medicine</h1>\n\n<p>From detecting diseases to personalizing treatments, AI is playing a crucial role in modern healthcare.</p>",
+      "viewCount": 1587
+    },
+    {
+      "id": "41145A82-04F3-4510-A600-76727F090A83",
       "title": " Can Artificial Intelligence Improve Governance?",
       "slug": "ai-in-politics-governance",
       "subtitle": "Governments are exploring AI for decision-making and policy analysis.",
@@ -115,6 +134,25 @@
       "viewCount": 1574
     },
     {
+      "id": "0382A784-FEA2-4187-A159-1CEB63335971",
+      "title": "The Role of Social Media in Modern Political Campaigns",
+      "slug": "social-media-political-campaigns",
+      "subtitle": "How digital platforms are shaping elections worldwide.",
+      "publishedAt": "2025-02-21T12:45:00Z",
+      "newsDate": "2025-02-21T11:15:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "From Twitter to TikTok, social media is playing an increasingly crucial role in political strategies and voter engagement.",
+      "source": "Digital Democracy Report",
+      "tags": ["Politics", "Social Media", "Elections"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800669/TRTWORLD/21501813_0-96-3000-1689_hajmln.jpg",
+      "category": "Politics",
+      "content": "<h1>Social Media's Influence on Elections</h1>\n\n<p>Modern political campaigns are focusing heavily on digital outreach, using data-driven strategies to engage with voters.</p>",
+      "viewCount": 1574
+    },
+    {
       "id": "U9V8W7X6-YZAB-3456-CDEF-7GHIJKLMNOP",
       "title": "Deepfake Threats: AI and Election Security",
       "slug": "deepfake-threats-election-security",
@@ -134,7 +172,7 @@
       "viewCount": 1342
     },
     {
-      "id": "A1B2C3D4-EFGH-5678-IJKL-9MNOPQRSTU",
+      "id": "7C4EA027-0A96-42A6-8340-92F1AD648A0F",
       "title": "Quantum Computing Breakthroughs Reshape Cybersecurity",
       "slug": "quantum-computing-cybersecurity",
       "subtitle": "Experts warn that quantum advancements could render current encryption obsolete.",
