@@ -5,8 +5,8 @@
       "title": "Tech Giants Compete in AI Race as Innovations Surge",
       "slug": "tech-giants-ai-race",
       "subtitle": "The competition for AI dominance intensifies among major companies.",
-      "publishedAt": "2025-02-18T10:00:00Z",
-      "createdAt": "2025-02-18T08:30:00Z",
+      "publishedAt": "2025-02-21T10:00:00Z",
+      "newsDate": "2025-02-21T08:30:00Z",
       "author": {
         "name": "John Doe",
         "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1722165401/food-ordering/gowacbeavbki2p3bpqqs.jpg"
@@ -25,7 +25,7 @@
       "slug": "quantum-computing-ai",
       "subtitle": "Quantum advancements push AI capabilities further.",
       "publishedAt": "2025-02-19T12:00:00Z",
-      "createdAt": "2025-02-19T09:45:00Z",
+      "newsDate": "2025-02-19T09:45:00Z",
       "author": {
         "name": null,
         "image": null
@@ -43,7 +43,7 @@
       "slug": "self-driving-cars-ai",
       "subtitle": "Autonomous vehicles powered by AI are closer than ever to mainstream adoption.",
       "publishedAt": "2025-02-20T14:00:00Z",
-      "createdAt": "2025-02-20T11:20:00Z",
+      "newsDate": "2025-02-20T11:20:00Z",
       "author": {
         "name": null,
         "image": null
@@ -62,7 +62,7 @@
       "slug": "ai-healthcare",
       "subtitle": "Artificial intelligence is revolutionizing diagnostics and treatment planning.",
       "publishedAt": "2025-02-21T16:30:00Z",
-      "createdAt": "2025-02-21T14:15:00Z",
+      "newsDate": "2025-02-21T14:15:00Z",
       "author": {
         "name": "Dr. Emily Carter",
         "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1709479902/samples/upscale-face-1.jpg"
@@ -81,7 +81,7 @@
       "slug": "ai-in-politics-governance",
       "subtitle": "Governments are exploring AI for decision-making and policy analysis.",
       "publishedAt": "2025-02-21T10:30:00Z",
-      "createdAt": "2025-02-21T09:00:00Z",
+      "newsDate": "2025-02-21T09:00:00Z",
       "author": {
         "name": null,
         "image": null
@@ -100,7 +100,7 @@
       "slug": "social-media-political-campaigns",
       "subtitle": "How digital platforms are shaping elections worldwide.",
       "publishedAt": "2025-02-21T12:45:00Z",
-      "createdAt": "2025-02-21T11:15:00Z",
+      "newsDate": "2025-02-21T11:15:00Z",
       "author": {
         "name": "David Reynolds",
         "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1709479895/samples/smile.jpg"
@@ -119,7 +119,7 @@
       "slug": "deepfake-threats-election-security",
       "subtitle": "How AI-generated deepfakes are impacting political landscapes and voter trust.",
       "publishedAt": "2025-02-21T15:10:00Z",
-      "createdAt": "2025-02-21T13:40:00Z",
+      "newsDate": "2025-02-21T13:40:00Z",
       "author": {
         "name": null,
         "image": null
