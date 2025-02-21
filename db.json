@@ -59,7 +59,7 @@
     },
     {
       "id": "D4E5F6G7-HIJK-8901-LMNO-2PQRSTUVWX",
-      "title": "AI-Powered Healthcare: A New Era of Medical Innovation",
+      "title": "Revolutionizing Medicine: How AI is Transforming Healthcare",
       "slug": "ai-healthcare",
       "subtitle": "Artificial intelligence is revolutionizing diagnostics and treatment planning.",
       "publishedAt": "2025-02-21T16:30:00Z",
@@ -312,7 +312,86 @@
       "category": "Science & Tech",
       "content": "<h1>The Future of Human-AI Integration</h1>\n\n<p>Neuralink's latest breakthrough could redefine how humans interact with machines, allowing for direct brain control of digital devices.</p>",
       "viewCount": 3210
-    }
+    },
+    [
+      {
+        "id": "A1B2C3D4-5678-9012-EF34-56789GHIJKL",
+        "title": "2020 US Election: Disinformation Campaigns and Their Impact",
+        "slug": "us-election-disinformation",
+        "subtitle": "How fake news and misleading information shaped the 2020 presidential race.",
+        "publishedAt": "2020-02-21T14:00:00Z",
+        "newsDate": "2020-02-21T13:30:00Z",
+        "author": {
+          "name": null,
+          "image": null
+        },
+        "description": "The role of disinformation in influencing the 2020 US Presidential Election has sparked debates on media responsibility.",
+        "source": "Election Watch",
+        "tags": ["US Elections 2020", "Disinformation", "Politics"],
+        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740174468/TRTWORLD/8375487_0-77-4771-2687_oxsifm.jpg",
+        "category": "Politics",
+        "content": "<h1>Election Integrity and the Media</h1><p>During the 2020 US elections, false narratives spread widely, impacting voter opinions and trust in the democratic process.</p>",
+        "viewCount": 1421
+      },
+      {
+        "id": "B2C3D4E5-6789-0123-AB56-7890DEFGHIJ",
+        "title": "AI and Voter Manipulation in the 2020 US Elections",
+        "slug": "ai-voter-manipulation-2020",
+        "subtitle": "Exploring how artificial intelligence was used to sway public opinion in the 2020 presidential election.",
+        "publishedAt": "2020-02-21T15:15:00Z",
+        "newsDate": "2020-02-21T14:00:00Z",
+        "author": {
+          "name": null,
+          "image": null
+        },
+        "description": "AI-driven campaigns and data analytics were deployed to target vulnerable voters during the 2020 US election cycle.",
+        "source": "Tech Insider",
+        "tags": ["AI", "US Elections 2020", "Voter Manipulation"],
+        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740174469/TRTWORLD/21561619_0-28-4159-2342_wmmdat.jpg",
+        "category": "Technology",
+        "content": "<h1>The Role of AI in Political Campaigns</h1><p>AI algorithms were harnessed to influence voter sentiment and manipulate voting behaviors during the contentious 2020 election season.</p>",
+        "viewCount": 1345
+      },
+      {
+        "id": "C3D4E5F6-7890-1234-CD78-9012EFGHJKLM",
+        "title": "The US Elections 2020: Cybersecurity and Foreign Interference",
+        "slug": "cybersecurity-us-election-2020",
+        "subtitle": "An overview of how foreign governments attempted to interfere in the 2020 US elections through cyberattacks.",
+        "publishedAt": "2020-02-21T16:00:00Z",
+        "newsDate": "2020-02-21T15:30:00Z",
+        "author": {
+          "name": null,
+          "image": null
+        },
+        "description": "Foreign actors used cyberattacks to attempt influencing the 2020 US elections, leading to increased awareness of electoral cybersecurity risks.",
+        "source": "Cyber Defense Today",
+        "tags": ["US Elections 2020", "Cybersecurity", "Foreign Interference"],
+        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739789832/TRTWORLD/biden_a2hzpj.jpg",
+        "category": "Politics",
+        "content": "<h1>Cybersecurity Risks in Modern Elections</h1><p>The 2020 US presidential election highlighted significant vulnerabilities in the digital infrastructure used during voting and election-day processes.</p>",
+        "viewCount": 1120
+      },
+      {
+        "id": "D4E5F6G7-8901-2345-DE89-0123FGHIJKL",
+        "title": "Social Media and Election Influence: The 2020 US Election Crisis",
+        "slug": "social-media-influence-2020-election",
+        "subtitle": "Examining the role of social media platforms in shaping the outcome of the 2020 US elections.",
+        "publishedAt": "2020-02-21T17:00:00Z",
+        "newsDate": "2020-02-21T16:30:00Z",
+        "author": {
+          "name": null,
+          "image": null
+        },
+        "description": "Social media played a significant role in how voters engaged with candidates, shaping perceptions and influencing decisions during the 2020 US elections.",
+        "source": "Media Today",
+        "tags": ["Social Media", "US Elections 2020", "Politics"],
+        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800302/TRTWORLD/21501813_0-96-3000-1689_kcrthk.jpg",
+        "category": "Politics",
+        "content": "<h1>The Impact of Social Media on Voter Behavior</h1><p>Social media was used to spread targeted ads, memes, and other content that swayed the opinions of many American voters during the election season.</p>",
+        "viewCount": 983
+      }
+    ]
+    
   ],
   "advert": [
     {
