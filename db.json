@@ -12,7 +12,7 @@
         "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1722165401/food-ordering/gowacbeavbki2p3bpqqs.jpg"
       },
       "description": "Leading technology companies are making significant investments in AI, pushing the boundaries of innovation.",
-      "source": "Tech Daily News",
+      "source": "TRT World",
       "tags": ["AI", "Technology", "Innovation", "Big Tech"],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800680/TRTWORLD/21413365_0-0-5861-3301_wtv4pc.jpg",
       "category": "Business",
@@ -27,11 +27,11 @@
       "publishedAt": "2025-02-19T12:00:00Z",
       "createdAt": "2025-02-19T09:45:00Z",
       "author": {
-        "name": "Jane Smith",
-        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1722165401/food-ordering/exs8xtmd10qmcenscez5.jpg"
+        "name": null,
+        "image": null
       },
       "description": "Quantum computing is opening new possibilities for AI, making models faster and more efficient.",
-      "source": "AI Weekly",
+      "source": "TRT World",
       "tags": ["Quantum Computing", "AI", "Technology"],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800683/TRTWORLD/21470987_0-53-960-540_iettwj.jpg",
       "category": "Science",
@@ -45,11 +45,11 @@
       "publishedAt": "2025-02-20T14:00:00Z",
       "createdAt": "2025-02-20T11:20:00Z",
       "author": {
-        "name": "Michael Johnson",
-        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1722165401/food-ordering/ktcv3zhtzur84ymo2dhk.jpg"
+        "name": null,
+        "image": null
       },
       "description": "AI-driven self-driving cars are transforming the way we travel, with safety and efficiency improvements.",
-      "source": "AutoTech News",
+      "source": "TRT World",
       "tags": ["AI", "Autonomous Vehicles", "Transportation"],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800682/TRTWORLD/21429036_0-91-960-540_ajwlgm.jpg",
       "category": "Automotive",
@@ -68,7 +68,7 @@
         "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1709479902/samples/upscale-face-1.jpg"
       },
       "description": "Healthcare is experiencing a transformation with AI-driven tools improving accuracy and efficiency.",
-      "source": "Medical Tech Journal",
+      "source": "TRT World",
       "tags": ["AI", "Healthcare", "Medical Technology"],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800678/TRTWORLD/21380847_0-39-828-466_zgmk7c.jpg",
       "category": "Health",
@@ -83,8 +83,8 @@
       "publishedAt": "2025-02-21T10:30:00Z",
       "createdAt": "2025-02-21T09:00:00Z",
       "author": {
-        "name": "Sarah Thompson",
-        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1722165401/food-ordering/exs8xtmd10qmcenscez5.jpg"
+        "name": null,
+        "image": null
       },
       "description": "AI is increasingly being used to analyze policies, predict election outcomes, and enhance decision-making in governance.",
       "source": "Global Politics Review",
@@ -121,8 +121,8 @@
       "publishedAt": "2025-02-21T15:10:00Z",
       "createdAt": "2025-02-21T13:40:00Z",
       "author": {
-        "name": "Emma Wilson",
-        "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1709479870/samples/people/smiling-man.jpg"
+        "name": null,
+        "image": null
       },
       "description": "The rise of AI-generated deepfake videos is posing serious challenges to election integrity and public trust.",
       "source": "CyberSecurity Watch",
