@@ -17,7 +17,7 @@
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800680/TRTWORLD/21413365_0-0-5861-3301_wtv4pc.jpg",
       "category": "Business",
       "content": "<h1>Tech Giants Compete in AI Race</h1>\n\n<p><strong>Leading technology companies</strong> are investing billions in artificial intelligence as they compete to develop the most advanced models. Industry leaders believe AI will reshape industries and redefine how people interact with technology.</p>\n\n<h2>The Race for AI Supremacy</h2>\n\n<p>Companies like <strong>TechCorp</strong> and <strong>NeuralNet Inc.</strong> are racing to build more sophisticated AI models. Experts warn that the rapid growth in AI capabilities could raise <em>ethical and regulatory concerns</em>.</p>\n\n<blockquote>\n    <p>“AI has the potential to revolutionize industries, but it also comes with great responsibility.”</p>\n    <p>— Dr. Emily Carter, AI Researcher</p>\n</blockquote>\n\n<h2>Challenges and Opportunities</h2>\n\n<p>While AI advancements bring excitement, there are concerns about <strong>job automation, data privacy, and misinformation</strong>. Governments are considering new regulations to ensure responsible AI development.</p>\n\n<h2>AI in Everyday Life</h2>\n\n<p>From chatbots to self-driving cars, AI is becoming an integral part of daily life. Many experts believe the technology will continue evolving, offering new opportunities for businesses and consumers alike.</p>\n\n<h2>Video: AI and the Future</h2>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xyz12345\" \n    title=\"AI and the Future\" frameborder=\"0\" \n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" \n    allowfullscreen>\n</iframe>\n\n<h2>What’s Next?</h2>\n\n<p>The AI race is far from over, with companies pushing the limits of innovation. The coming years will reveal how AI shapes the world and whether regulations will keep pace with technological advancements.</p>",
-      "viewCount":1405
+      "viewCount": 1405
     },
     {
       "id": "B2C3D4E5-FGHI-6789-JKLM-0NOPQRSTUV",
@@ -37,7 +37,8 @@
       "category": "Science",
       "content": "<h1>Quantum Computing Reshaping AI</h1>\n\n<p>Quantum technology is enabling AI models to process data at unprecedented speeds, enhancing their learning capabilities.</p>",
       "viewCount": 982
-    },{
+    },
+    {
       "id": "C3D4E5F6-GHIJ-7890-KLMN-1OPQRSTUVX",
       "title": "Self-Driving Cars: AI Revolutionizing Transportation",
       "slug": "self-driving-cars-ai",
@@ -126,12 +127,76 @@
       },
       "description": "The rise of AI-generated deepfake videos is posing serious challenges to election integrity and public trust.",
       "source": "CyberSecurity Watch",
-      "tags": ["AI", "Cybersecurity", "Politics"],
-      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800310/TRTWORLD/21403830_0-332-6415-3612_qz0olk.jpg",
+      "tags": ["AI", "Cybersecurity", "Technology", "Election"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800670/TRTWORLD/21516445_0-0-6000-3378_c6gabu.jpg",
       "category": "Politics",
       "content": "<h1>Deepfake Technology and Political Manipulation</h1>\n\n<p>AI-driven deepfake videos are being used for disinformation campaigns, making it harder to distinguish truth from fiction.</p>",
       "viewCount": 1342
-    } 
+    },
+    {
+      "id": "A1B2C3D4-EFGH-5678-IJKL-9MNOPQRSTU",
+      "title": "Quantum Computing Breakthroughs Reshape Cybersecurity",
+      "slug": "quantum-computing-cybersecurity",
+      "subtitle": "Experts warn that quantum advancements could render current encryption obsolete.",
+      "publishedAt": "2020-02-20T09:30:00Z",
+      "newsDate": "2020-02-20T08:00:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Quantum computing is advancing at an unprecedented rate, raising concerns about the future of cybersecurity and encryption standards.",
+      "source": "Tech Security Weekly",
+      "tags": ["Quantum Computing", "Cybersecurity", "AI", "Technology"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800306/TRTWORLD/21547557_0-27-1080-608_v8g3y1.jpg",
+      "category": "Science & Tech",
+      "content": "<h1>The Quantum Era and Cybersecurity</h1>\n\n<p>As companies make breakthroughs in quantum computing, traditional encryption methods are at risk.</p>",
+      "viewCount": 2103
+    },
+    {
+      "id": "M3N4O5P6-QRST-7890-UVWX-12345YZABCD",
+      "title": "SpaceX's Mars Mission: First Crewed Test Flight Planned for 2026",
+      "slug": "spacex-mars-mission-2026",
+      "subtitle": "Elon Musk announces ambitious plans to send astronauts to Mars in early 2026.",
+      "publishedAt": "2020-02-19T18:20:00Z",
+      "newsDate": "2020-02-19T16:50:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "SpaceX has confirmed plans for its first crewed mission to Mars in 2026, marking a historic milestone in space exploration.",
+      "source": "Space Exploration Weekly",
+      "tags": ["Quantum Computing", "Cybersecurity", "AI", "Technology"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800310/TRTWORLD/21388193_0-119-4584-2582_tinckr.jpg",
+      "category": "Science & Tech",
+      "content": "<h1>Preparing for the Red Planet</h1>\n\n<p>SpaceX is accelerating its plans to send humans to Mars, with testing already underway.</p>",
+      "viewCount": 2754
+    },
+    {
+      "id": "T1E2C3H4-NL56-7890-XYZW-98765ABCDE",
+      "title": "Neuralink's Brain Chip Successfully Tested on First Human",
+      "slug": "neuralink-brain-chip-human-trial",
+      "subtitle": "Elon Musk confirms the first human received a Neuralink brain implant and is recovering well.",
+      "publishedAt": "2020-02-21T14:30:00Z",
+      "newsDate": "2020-02-21T12:45:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Neuralink's brain-computer interface (BCI) has been successfully implanted in a human, paving the way for revolutionary advancements in neuroscience and AI integration.",
+      "source": "Tech Innovations Daily",
+      "tags": [
+        "Neuralink",
+        "Cybersecurity",
+        "AI",
+        "Elon Musk",
+        "Election",
+        "Technology"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800307/TRTWORLD/19894809_0-83-3500-1971_s8eilm.jpg",
+      "category": "Science & Tech",
+      "content": "<h1>The Future of Human-AI Integration</h1>\n\n<p>Neuralink's latest breakthrough could redefine how humans interact with machines, allowing for direct brain control of digital devices.</p>",
+      "viewCount": 3210
+    }
   ],
   "advert": [
     {
