@@ -96,6 +96,84 @@
       "viewCount": 1587
     },
     {
+      "id": "A8B7C6D5-ED34-1234-5678-9ABCDE0F1234",
+      "title": "Revolutionizing Education with AI: Smart Classrooms on the Rise",
+      "slug": "ai-education",
+      "subtitle": "AI technologies are transforming how education is delivered and received.",
+      "publishedAt": "2025-02-22T10:30:00Z",
+      "newsDate": "2025-02-22T09:00:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "AI-powered smart classrooms are changing the way teachers teach and students learn, making education more personalized.",
+      "source": "Tech Education Weekly",
+      "tags": ["AI", "Education", "Technology", "Innovation"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800302/TRTWORLD/21502981_0-0-1917-1080_fbn1nx.jpg",
+      "category": "Education",
+      "content": "<h1>AI in the Classroom</h1>\n\n<p>AI is becoming an integral part of education, enhancing learning experiences with personalized curricula and real-time feedback.</p>",
+      "viewCount": 1234
+    },
+    {
+      "id": "B9C0D1E2-6F34-6789-9A0B-4CDE5F678GHI",
+      "title": "AI in Agriculture: Farming Goes High-Tech",
+      "slug": "ai-agriculture",
+      "subtitle": "Artificial intelligence is changing the landscape of modern farming.",
+      "publishedAt": "2025-02-22T14:00:00Z",
+      "newsDate": "2025-02-22T12:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "AI is helping farmers optimize crop yields, reduce waste, and improve sustainability.",
+      "source": "AgriTech News",
+      "tags": ["AI", "Agriculture", "Technology", "Sustainability"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800301/TRTWORLD/21479994_526-862-4945-2785_kh5hln.jpg",
+      "category": "Agriculture",
+      "content": "<h1>AI and Precision Farming</h1>\n\n<p>AI-driven tools enable farmers to monitor crops in real-time and apply the exact amount of water, fertilizer, and pesticides needed for optimal growth.</p>",
+      "viewCount": 978
+    },
+
+    {
+      "id": "C0D1E2F3-4G56-7890-H1I2-JK3L4M567NOP",
+      "title": "AI and the Future of Retail: Personalized Shopping Experiences",
+      "slug": "ai-retail",
+      "subtitle": "Artificial intelligence is reshaping the retail industry with personalized shopping.",
+      "publishedAt": "2025-02-23T11:00:00Z",
+      "newsDate": "2025-02-23T09:45:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "AI-powered tools are revolutionizing retail by offering personalized shopping experiences, improving customer satisfaction.",
+      "source": "Retail Innovators Digest",
+      "tags": ["AI", "Retail", "Technology", "Shopping"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800304/TRTWORLD/21519362_0-488-4720-2658_grskzf.jpg",
+      "category": "Retail",
+      "content": "<h1>Personalized Shopping with AI</h1>\n\n<p>AI is helping retailers analyze customer preferences to deliver personalized product recommendations and a seamless shopping experience.</p>",
+      "viewCount": 1356
+    },
+    {
+      "id": "D1E2F3G4-5H67-890I-J1K2-L3M4N5P6Q7R8",
+      "title": "AI and the Environment: Tackling Climate Change with Technology",
+      "slug": "ai-climate-change",
+      "subtitle": "AI technologies are playing a pivotal role in combating climate change.",
+      "publishedAt": "2025-02-23T13:30:00Z",
+      "newsDate": "2025-02-23T12:00:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Artificial intelligence is being used to develop solutions for environmental monitoring, resource management, and carbon reduction.",
+      "source": "EcoTech News",
+      "tags": ["AI", "Environment", "Climate Change", "Sustainability"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800310/TRTWORLD/21377135_0-30-1265-712_cbefb7.png",
+      "category": "Environment",
+      "content": "<h1>AI for a Greener Future</h1>\n\n<p>AI is being applied to track emissions, optimize energy consumption, and develop sustainable solutions for a healthier planet.</p>",
+      "viewCount": 1110
+    },
+
+    {
       "id": "41145A82-04F3-4510-A600-76727F090A83",
       "title": " Can Artificial Intelligence Improve Governance?",
       "slug": "ai-in-politics-governance",
