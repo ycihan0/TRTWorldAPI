@@ -18,7 +18,7 @@
       "category": "Business",
       "content": "<h1>Tech Giants Compete in AI Race</h1>\n\n<p><strong>Leading technology companies</strong> are investing billions in artificial intelligence as they compete to develop the most advanced models. Industry leaders believe AI will reshape industries and redefine how people interact with technology.</p>\n\n<h2>The Race for AI Supremacy</h2>\n\n<p>Companies like <strong>TechCorp</strong> and <strong>NeuralNet Inc.</strong> are racing to build more sophisticated AI models. Experts warn that the rapid growth in AI capabilities could raise <em>ethical and regulatory concerns</em>.</p>\n\n<blockquote>\n    <p>“AI has the potential to revolutionize industries, but it also comes with great responsibility.”</p>\n    <p>— Dr. Emily Carter, AI Researcher</p>\n</blockquote>\n\n<h2>Challenges and Opportunities</h2>\n\n<p>While AI advancements bring excitement, there are concerns about <strong>job automation, data privacy, and misinformation</strong>. Governments are considering new regulations to ensure responsible AI development.</p>\n\n<h2>AI in Everyday Life</h2>\n\n<p>From chatbots to self-driving cars, AI is becoming an integral part of daily life. Many experts believe the technology will continue evolving, offering new opportunities for businesses and consumers alike.</p>\n\n<h2>Video: AI and the Future</h2>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xyz12345\" \n    title=\"AI and the Future\" frameborder=\"0\" \n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" \n    allowfullscreen>\n</iframe>\n\n<h2>What’s Next?</h2>\n\n<p>The AI race is far from over, with companies pushing the limits of innovation. The coming years will reveal how AI shapes the world and whether regulations will keep pace with technological advancements.</p>",
       "viewCount": 1405,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "B2C3D4E5-FGHI-6789-JKLM-0NOPQRSTUV",
@@ -38,7 +38,7 @@
       "category": "Science",
       "content": "<h1>Quantum Computing Reshaping AI</h1>\n\n<p>Quantum technology is enabling AI models to process data at unprecedented speeds, enhancing their learning capabilities.</p>",
       "viewCount": 982,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "C3D4E5F6-GHIJ-7890-KLMN-1OPQRSTUVX",
@@ -58,7 +58,7 @@
       "category": "Automotive",
       "content": "<h1>AI and the Future of Transportation</h1>\n\n<p>Major automakers are integrating AI into their autonomous vehicle systems, promising a future with fewer accidents and smoother traffic.</p>",
       "viewCount": 1203,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "D4E5F6G7-HIJK-8901-LMNO-2PQRSTUVWX",
@@ -78,7 +78,7 @@
       "category": "Health",
       "content": "<h1>AI in Medicine</h1>\n\n<p>From detecting diseases to personalizing treatments, AI is playing a crucial role in modern healthcare.</p>",
       "viewCount": 1587,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "E7E5E1D9-9882-4D7E-B46B-6BC987DA8EEF",
@@ -98,7 +98,7 @@
       "category": "Health",
       "content": "<h1>AI in Medicine</h1>\n\n<p>From detecting diseases to personalizing treatments, AI is playing a crucial role in modern healthcare.</p>",
       "viewCount": 1587,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "A8B7C6D5-ED34-1234-5678-9ABCDE0F1234",
@@ -118,7 +118,7 @@
       "category": "Education",
       "content": "<h1>AI in the Classroom</h1>\n\n<p>AI is becoming an integral part of education, enhancing learning experiences with personalized curricula and real-time feedback.</p>",
       "viewCount": 1234,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "B9C0D1E2-6F34-6789-9A0B-4CDE5F678GHI",
@@ -138,7 +138,7 @@
       "category": "Agriculture",
       "content": "<h1>AI and Precision Farming</h1>\n\n<p>AI-driven tools enable farmers to monitor crops in real-time and apply the exact amount of water, fertilizer, and pesticides needed for optimal growth.</p>",
       "viewCount": 978,
-      "video": null
+      "video": { "link": null, "time": null }
     },
 
     {
@@ -159,7 +159,7 @@
       "category": "Retail",
       "content": "<h1>Personalized Shopping with AI</h1>\n\n<p>AI is helping retailers analyze customer preferences to deliver personalized product recommendations and a seamless shopping experience.</p>",
       "viewCount": 1356,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "D1E2F3G4-5H67-890I-J1K2-L3M4N5P6Q7R8",
@@ -179,7 +179,7 @@
       "category": "Environment",
       "content": "<h1>AI for a Greener Future</h1>\n\n<p>AI is being applied to track emissions, optimize energy consumption, and develop sustainable solutions for a healthier planet.</p>",
       "viewCount": 1110,
-      "video": null
+      "video": { "link": null, "time": null }
     },
 
     {
@@ -200,7 +200,7 @@
       "category": "Politics",
       "content": "<h1>AI in Governance</h1>\n\n<p>Many governments worldwide are leveraging artificial intelligence for better policy analysis, reducing bias, and improving governance efficiency.</p>",
       "viewCount": 892,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "X5Y6Z7A8-BCDE-9012-FGHI-3JKLMNOPQR",
@@ -220,7 +220,7 @@
       "category": "Politics",
       "content": "<h1>Social Media's Influence on Elections</h1>\n\n<p>Modern political campaigns are focusing heavily on digital outreach, using data-driven strategies to engage with voters.</p>",
       "viewCount": 1574,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "0382A784-FEA2-4187-A159-1CEB63335971",
@@ -240,7 +240,7 @@
       "category": "Politics",
       "content": "<h1>Social Media's Influence on Elections</h1>\n\n<p>Modern political campaigns are focusing heavily on digital outreach, using data-driven strategies to engage with voters.</p>",
       "viewCount": 1574,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "U9V8W7X6-YZAB-3456-CDEF-7GHIJKLMNOP",
@@ -260,7 +260,7 @@
       "category": "Politics",
       "content": "<h1>Deepfake Technology and Political Manipulation</h1>\n\n<p>AI-driven deepfake videos are being used for disinformation campaigns, making it harder to distinguish truth from fiction.</p>",
       "viewCount": 1342,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "7C4EA027-0A96-42A6-8340-92F1AD648A0F",
@@ -280,7 +280,7 @@
       "category": "Science & Tech",
       "content": "<h1>The Quantum Era and Cybersecurity</h1>\n\n<p>As companies make breakthroughs in quantum computing, traditional encryption methods are at risk.</p>",
       "viewCount": 2103,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "M3N4O5P6-QRST-7890-UVWX-12345YZABCD",
@@ -300,7 +300,7 @@
       "category": "Science & Tech",
       "content": "<h1>Preparing for the Red Planet</h1>\n\n<p>SpaceX is accelerating its plans to send humans to Mars, with testing already underway.</p>",
       "viewCount": 2754,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "T1E2C3H4-NL56-7890-XYZW-98765ABCDE",
@@ -327,7 +327,7 @@
       "category": "Science & Tech",
       "content": "<h1>The Future of Human-AI Integration</h1>\n\n<p>Neuralink's latest breakthrough could redefine how humans interact with machines, allowing for direct brain control of digital devices.</p>",
       "viewCount": 3210,
-      "video": null
+      "video": { "link": null, "time": null }
     },
 
     {
@@ -367,7 +367,7 @@
       "category": "Technology",
       "content": "<h1>The Role of AI in Political Campaigns</h1><p>AI algorithms were harnessed to influence voter sentiment and manipulate voting behaviors during the contentious 2020 election season.</p>",
       "viewCount": 1345,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "C3D4E5F6-7890-1234-CD78-9012EFGHJKLM",
@@ -387,7 +387,7 @@
       "category": "Politics",
       "content": "<h1>Cybersecurity Risks in Modern Elections</h1><p>The 2020 US presidential election highlighted significant vulnerabilities in the digital infrastructure used during voting and election-day processes.</p>",
       "viewCount": 1120,
-      "video": null
+      "video": { "link": null, "time": null }
     },
     {
       "id": "D4E5F6G7-8901-2345-DE89-0123FGHIJKL",
@@ -407,8 +407,8 @@
       "category": "Politics",
       "content": "<h1>The Impact of Social Media on Voter Behavior</h1><p>Social media was used to spread targeted ads, memes, and other content that swayed the opinions of many American voters during the election season.</p>",
       "viewCount": 983,
-      "video": "https://www.youtube.com/watch?v=sNkOxUt6tH4&pp=ygUTdHJ0IHdvcmxkIGVsZWN0aW9uIA%3D%3D"
-    }
+      "video": { "link": "https://www.youtube.com/watch?v=sNkOxUt6tH4&pp=ygUTdHJ0IHdvcmxkIGVsZWN0aW9uIA%3D%3D", "time": "5:20" }
+       }
   ],
   "advert": [
     {
