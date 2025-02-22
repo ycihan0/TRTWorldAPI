@@ -407,8 +407,320 @@
       "category": "Politics",
       "content": "<h1>The Impact of Social Media on Voter Behavior</h1><p>Social media was used to spread targeted ads, memes, and other content that swayed the opinions of many American voters during the election season.</p>",
       "viewCount": 983,
-      "video": { "link": "https://www.youtube.com/watch?v=sNkOxUt6tH4&pp=ygUTdHJ0IHdvcmxkIGVsZWN0aW9uIA%3D%3D", "time": "5:20" }
-       }
+      "video": {
+        "link": "https://www.youtube.com/watch?v=sNkOxUt6tH4&pp=ygUTdHJ0IHdvcmxkIGVsZWN0aW9uIA%3D%3D",
+        "time": "5:20"
+      }
+    },
+    {
+      "id": "A1B2C3D4-5678-9101-EF23-4567GHIJKLMN",
+      "title": "Azerbaijan-Armenia Border Tensions Rise Amid Diplomatic Efforts",
+      "slug": "azerbaijan-armenia-border-tensions",
+      "subtitle": "Escalating tensions between Azerbaijan and Armenia spark international concerns despite ongoing peace talks.",
+      "publishedAt": "2025-02-20T17:00:00Z",
+      "newsDate": "2025-02-20T16:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Recent clashes along the Azerbaijan-Armenia border have raised concerns about the stability of the region, prompting calls for diplomatic intervention.",
+      "source": "International News Network",
+      "tags": ["Azerbaijan-Armenia Dispute", "Diplomacy", "Conflict"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21565623_0-618-6047-3405_ewvqdk.jpg",
+      "category": "Europe",
+      "content": "<h1>Border Clashes and Peace Talks</h1><p>The ongoing dispute between Azerbaijan and Armenia has seen a new wave of escalations, with both sides accusing each other of ceasefire violations.</p>",
+      "viewCount": 1247,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "A1B2C3D4-5678-9012-EF34-5678GHIJKLM",
+      "title": "Azerbaijan and Armenia: A Fragile Ceasefire Amid Rising Tensions",
+      "slug": "azerbaijan-armenia-fragile-ceasefire",
+      "subtitle": "Despite international mediation efforts, the conflict between Azerbaijan and Armenia remains a significant geopolitical challenge.",
+      "publishedAt": "2025-02-20T10:00:00Z",
+      "newsDate": "2025-02-20T09:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Recent developments in the Azerbaijan-Armenia dispute have raised concerns over the stability of the region as both sides continue to accuse each other of violations.",
+      "source": "Global News Network",
+      "tags": ["Azerbaijan", "Armenia", "Conflict", "Peace Talks"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21566438_0-88-5563-3133_iexazu.jpg",
+      "category": "Europe",
+      "content": "<h1>A Fragile Peace Between Azerbaijan and Armenia</h1><p>Despite international pressure, the ceasefire remains unstable, with both nations accusing each other of breaches.</p>",
+      "viewCount": 1245,
+      "video": {
+        "link": null,
+        "time": null
+      }
+    },
+    {
+      "id": "D4E5F6G7-8901-2345-DE89-0123FGHIJKL",
+      "title": "Armenia Dispute Escalates in the Eastern Mediterranean",
+      "slug": "armenia-eastern-mediterranean-dispute",
+      "subtitle": "Tensions rise between Azerbaijan and Armenia over territorial claims in the Eastern Mediterranean region.",
+      "publishedAt": "2025-02-20T17:00:00Z",
+      "newsDate": "2025-02-20T16:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "The conflict between Azerbaijan and Armenia continues to intensify, particularly over strategic regions in the Eastern Mediterranean, as both nations assert their territorial rights.",
+      "source": "Global News Today",
+      "tags": [
+        "Azerbaijan",
+        "Armenia",
+        "Eastern Mediterranean",
+        "Turkey",
+        "Europe",
+        "Africa",
+        "Dispute"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217535/TRTWORLD/21424962_0-231-3520-1983_whpaie.jpg",
+      "category": "International Affairs",
+      "content": "<h1>The Escalating Conflict Between Azerbaijan and Armenia</h1><p>The dispute between Azerbaijan and Armenia over the Eastern Mediterranean has sparked a renewed wave of political tension in the region, with Turkey also playing a key role in these developments.</p>",
+      "viewCount": 1234,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "A1B2C3D4-5678-9101-EF23-4567GHIJKLM",
+      "title": "Tensions Rise in the Eastern Mediterranean Over Territorial Disputes",
+      "slug": "eastern-mediterranean-territorial-disputes",
+      "subtitle": "Growing tensions in the Eastern Mediterranean as countries vie for control of maritime resources and strategic locations.",
+      "publishedAt": "2025-02-20T18:00:00Z",
+      "newsDate": "2025-02-20T17:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Several countries in the Eastern Mediterranean are locked in territorial disputes, leading to a volatile situation in the region, especially with Turkey asserting its maritime rights.",
+      "source": "World Affairs Journal",
+      "tags": [
+        "Eastern Mediterranean",
+        "Turkey",
+        "Europe",
+        "Africa",
+        "Territorial Dispute",
+        "International Relations"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217535/TRTWORLD/21560488_0-318-6147-3461_msrdtz.jpg",
+      "category": "International Relations",
+      "content": "<h1>The Growing Disputes Over Territorial Waters in the Eastern Mediterranean</h1><p>As countries in the Eastern Mediterranean stake their claims over the seas, the region has seen an increase in military presence and diplomatic tensions, with Turkey actively challenging rival claims.</p>",
+      "viewCount": 1456,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "H2I3J4K5-6789-1011-LM23-4567NOPQRST",
+      "title": "Turkey's Role in the Mediterranean: Strategic Alliances and Challenges",
+      "slug": "turkey-role-mediterranean-alliances-challenges",
+      "subtitle": "Turkey continues to play a pivotal role in the Eastern Mediterranean, balancing alliances and facing new regional challenges.",
+      "publishedAt": "2025-02-20T19:00:00Z",
+      "newsDate": "2025-02-20T18:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey's growing influence in the Eastern Mediterranean is marked by its strategic alliances and the challenges it faces in the region's complex geopolitical landscape.",
+      "source": "Global Politics Review",
+      "tags": [
+        "Turkey",
+        "Mediterranean",
+        "Strategic Alliances",
+        "Geopolitics",
+        "International Relations"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800675/TRTWORLD/18156356_0-162-2000-1126_v0fmvp.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>Turkey's Expanding Influence in the Mediterranean</h1><p>As tensions rise in the Eastern Mediterranean, Turkey's strategic alliances with neighboring countries are tested, while it faces increasing challenges from rival powers vying for control of vital maritime resources.</p>",
+      "viewCount": 1123,
+      "video": { "link": null, "time": null }
+    },
+
+    {
+      "id": "P9Q0R1S2-3456-7890-TU23-5678VWXZAB",
+      "title": "Turkey's Naval Operations in the Eastern Mediterranean Spark International Concerns",
+      "slug": "turkey-naval-operations-eastern-mediterranean",
+      "subtitle": "Turkey's recent naval operations in the Eastern Mediterranean are raising concerns among neighboring countries and global powers.",
+      "publishedAt": "2025-02-20T20:00:00Z",
+      "newsDate": "2025-02-20T19:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey's naval maneuvers in the Eastern Mediterranean are escalating tensions with neighboring nations, prompting international calls for dialogue and de-escalation.",
+      "source": "Global Affairs Today",
+      "tags": [
+        "Turkey",
+        "Naval Operations",
+        "Eastern Mediterranean",
+        "International Relations",
+        "Geopolitics"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800678/TRTWORLD/21380847_0-39-828-466_zgmk7c.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>The Growing Tensions Over Turkey's Naval Presence</h1><p>Turkey's recent naval operations in the Eastern Mediterranean have sparked reactions from neighboring countries and global powers, with concerns over regional stability and maritime rights.</p>",
+      "viewCount": 1345,
+      "video": { "link": null, "time": null }
+    },
+
+    {
+      "id": "A3B4C5D6-7890-1234-EF56-7890GHIJKLM",
+      "title": "Turkey and the Eastern Mediterranean: Navigating Regional Tensions",
+      "slug": "turkey-eastern-mediterranean-regional-tensions",
+      "subtitle": "Turkey's involvement in the Eastern Mediterranean is becoming a focal point in the region’s growing geopolitical struggles.",
+      "publishedAt": "2025-02-20T21:00:00Z",
+      "newsDate": "2025-02-20T20:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey is playing a crucial role in the Eastern Mediterranean’s complex geopolitical landscape, as regional powers navigate competing territorial claims and strategic interests.",
+      "source": "World Politics Network",
+      "tags": [
+        "Turkey",
+        "Eastern Mediterranean",
+        "Geopolitics",
+        "Territorial Claims",
+        "Regional Tensions"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800682/TRTWORLD/21457275_0-88-4000-2252_kxejge.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>Turkey's Strategic Position in the Eastern Mediterranean</h1><p>Turkey's assertive stance in the Eastern Mediterranean has sparked tensions with neighboring nations, who are vying for control of critical maritime resources, leaving the region in a delicate balance of power.</p>",
+      "viewCount": 1567,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "B7C8D9E0-1234-5678-FG90-1234HIJKLMN",
+      "title": "Turkey's Influence in the Eastern Mediterranean Continues to Grow",
+      "slug": "turkey-influence-eastern-mediterranean-grow",
+      "subtitle": "Turkey's strategic moves in the Eastern Mediterranean are reshaping regional dynamics and attracting international attention.",
+      "publishedAt": "2025-02-20T22:00:00Z",
+      "newsDate": "2025-02-20T21:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey is strengthening its presence in the Eastern Mediterranean, balancing alliances and navigating regional disputes as part of its growing geopolitical influence.",
+      "source": "The Geopolitical Observer",
+      "tags": [
+        "Turkey",
+        "Eastern Mediterranean",
+        "Geopolitics",
+        "Strategic Alliances",
+        "International Relations"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21563787_0-394-5500-3098_jc72uk.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>Turkey's Expanding Geopolitical Influence in the Eastern Mediterranean</h1><p>As Turkey strengthens its strategic alliances in the Eastern Mediterranean, tensions are rising with regional powers, leading to a reshaping of the area’s geopolitical landscape.</p>",
+      "viewCount": 987,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "C8D9E0F1-2345-6789-GH01-2345IJKLMPQ",
+      "title": "Regional Alliances in the Eastern Mediterranean: Turkey's Rising Influence",
+      "slug": "regional-alliances-turkey-eastern-mediterranean",
+      "subtitle": "Turkey’s strategic partnerships in the Eastern Mediterranean are reshaping the balance of power in the region.",
+      "publishedAt": "2025-02-20T23:00:00Z",
+      "newsDate": "2025-02-20T22:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey's increasing alliances in the Eastern Mediterranean are not only enhancing its strategic position but also altering the geopolitical dynamics of the region.",
+      "source": "International Affairs Journal",
+      "tags": [
+        "Turkey",
+        "Eastern Mediterranean",
+        "Regional Alliances",
+        "Geopolitics",
+        "Balance of Power"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21543890_0-90-6795-3826_dkiigv.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>Turkey’s Strategic Alliances and Regional Power Shifts</h1><p>As Turkey strengthens its alliances with key players in the Eastern Mediterranean, its influence is set to increase, challenging traditional power dynamics in the region.</p>",
+      "viewCount": 1452,
+      "video": { "link": null, "time": null }
+    },
+
+    {
+      "id": "D1E2F3G4-5678-9101-HI23-4567JKLMMN",
+      "title": "Turkey's Strategic Moves in the Eastern Mediterranean Spark Global Discussions",
+      "slug": "turkey-strategic-moves-eastern-mediterranean",
+      "subtitle": "Turkey's actions in the Eastern Mediterranean are becoming a central point of global geopolitical discussions.",
+      "publishedAt": "2025-02-20T23:30:00Z",
+      "newsDate": "2025-02-20T23:00:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey’s growing presence in the Eastern Mediterranean is sparking international debates about regional security, territorial disputes, and the global balance of power.",
+      "source": "Global Strategic Review",
+      "tags": [
+        "Turkey",
+        "Eastern Mediterranean",
+        "Geopolitics",
+        "Territorial Disputes",
+        "Global Security"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21560562_0-71-4675-2632_iersum.jpg",
+      "category": "International Relations",
+      "content": "<h1>Turkey's Expanding Influence and the Global Reactions</h1><p>As Turkey increases its maritime operations and strategic alliances in the Eastern Mediterranean, global powers are closely watching the situation, raising concerns about the potential for broader conflicts.</p>",
+      "viewCount": 1348,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "E2F3G4H5-6789-1011-JK23-4567LMNOPQ",
+      "title": "Turkey's Energy Exploration in the Eastern Mediterranean Stirs Controversy",
+      "slug": "turkey-energy-exploration-eastern-mediterranean",
+      "subtitle": "Turkey's energy exploration activities in the Eastern Mediterranean are fueling tensions with neighboring countries and international bodies.",
+      "publishedAt": "2025-02-20T23:45:00Z",
+      "newsDate": "2025-02-20T23:15:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey's ongoing energy exploration efforts in the Eastern Mediterranean are becoming a point of contention with Greece, Cyprus, and the European Union, as the region's energy resources remain at the center of geopolitical conflicts.",
+      "source": "Energy and Politics Today",
+      "tags": [
+        "Turkey",
+        "Energy Exploration",
+        "Eastern Mediterranean",
+        "Geopolitics",
+        "Energy Resources"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217535/TRTWORLD/21560529_0-71-3000-1690_ieu3om.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>The Controversy Over Turkey's Energy Exploration</h1><p>Turkey's push to explore energy resources in the Eastern Mediterranean is leading to rising tensions with neighboring nations, who claim the area’s resources as their own, sparking a wider regional dispute.</p>",
+      "viewCount": 1123,
+      "video": { "link": null, "time": null }
+    },
+    {
+      "id": "F3G4H5I6-7890-1234-JK56-7890LMNOPQ",
+      "title": "Turkey's Role in the Eastern Mediterranean: A Geopolitical Shift",
+      "slug": "turkey-role-eastern-mediterranean-geopolitical-shift",
+      "subtitle": "Turkey's growing influence in the Eastern Mediterranean is marking a significant shift in regional geopolitics and security dynamics.",
+      "publishedAt": "2025-02-20T23:59:00Z",
+      "newsDate": "2025-02-20T23:30:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "Turkey’s strategic initiatives in the Eastern Mediterranean are reshaping the geopolitical landscape, affecting not only regional but also global security interests.",
+      "source": "Global Security Review",
+      "tags": [
+        "Turkey",
+        "Eastern Mediterranean",
+        "Geopolitics",
+        "Regional Security",
+        "Global Power Dynamics"
+      ],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217535/TRTWORLD/21488251_0-0-4906-2763_hgxm92.jpg",
+      "category": "Geopolitics",
+      "content": "<h1>The Geopolitical Shift in the Eastern Mediterranean</h1><p>Turkey's increasing influence in the Eastern Mediterranean is challenging traditional power structures in the region, as it navigates competing interests with both regional and global powers.</p>",
+      "viewCount": 1420,
+      "video": { "link": null, "time": null }
+    }
   ],
   "advert": [
     {
