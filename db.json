@@ -1,7 +1,7 @@
 {
   "news": [
     {
-      "id": "A1B2C3D4-EFGH-5678-IJKL-9MNOPQRSTU",
+      "id": "89139482",
       "title": "Tech Giants Compete in AI Race as Innovations Surge",
       "slug": "tech-giants-ai-race",
       "subtitle": "The competition for AI dominance intensifies among major companies.",
@@ -13,15 +13,23 @@
       },
       "description": "Leading technology companies are making significant investments in AI, pushing the boundaries of innovation.",
       "source": "TRT World",
-      "tags": ["AI", "Technology", "Innovation", "Big Tech"],
+      "tags": [
+        "AI",
+        "Technology",
+        "Innovation",
+        "Big Tech"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800680/TRTWORLD/21413365_0-0-5861-3301_wtv4pc.jpg",
       "category": "Business",
       "content": "<h1>Tech Giants Compete in AI Race</h1>\n\n<p><strong>Leading technology companies</strong> are investing billions in artificial intelligence as they compete to develop the most advanced models. Industry leaders believe AI will reshape industries and redefine how people interact with technology.</p>\n\n<h2>The Race for AI Supremacy</h2>\n\n<p>Companies like <strong>TechCorp</strong> and <strong>NeuralNet Inc.</strong> are racing to build more sophisticated AI models. Experts warn that the rapid growth in AI capabilities could raise <em>ethical and regulatory concerns</em>.</p>\n\n<blockquote>\n    <p>“AI has the potential to revolutionize industries, but it also comes with great responsibility.”</p>\n    <p>— Dr. Emily Carter, AI Researcher</p>\n</blockquote>\n\n<h2>Challenges and Opportunities</h2>\n\n<p>While AI advancements bring excitement, there are concerns about <strong>job automation, data privacy, and misinformation</strong>. Governments are considering new regulations to ensure responsible AI development.</p>\n\n<h2>AI in Everyday Life</h2>\n\n<p>From chatbots to self-driving cars, AI is becoming an integral part of daily life. Many experts believe the technology will continue evolving, offering new opportunities for businesses and consumers alike.</p>\n\n<h2>Video: AI and the Future</h2>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xyz12345\" \n    title=\"AI and the Future\" frameborder=\"0\" \n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" \n    allowfullscreen>\n</iframe>\n\n<h2>What’s Next?</h2>\n\n<p>The AI race is far from over, with companies pushing the limits of innovation. The coming years will reveal how AI shapes the world and whether regulations will keep pace with technological advancements.</p>",
       "viewCount": 1405,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "B2C3D4E5-FGHI-6789-JKLM-0NOPQRSTUV",
+      "id": "24000535",
       "title": "Cutting-Edge Computing Advances Drive Research Innovation",
       "slug": "quantum-computing-ai",
       "subtitle": "Quantum advancements push AI capabilities further.",
@@ -33,15 +41,22 @@
       },
       "description": "Quantum computing is opening new possibilities for AI, making models faster and more efficient.",
       "source": "TRT World",
-      "tags": ["Quantum Computing", "AI", "Technology"],
+      "tags": [
+        "Quantum Computing",
+        "AI",
+        "Technology"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800683/TRTWORLD/21470987_0-53-960-540_iettwj.jpg",
       "category": "Science",
       "content": "<h1>Quantum Computing Reshaping AI</h1>\n\n<p>Quantum technology is enabling AI models to process data at unprecedented speeds, enhancing their learning capabilities.</p>",
       "viewCount": 982,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "C3D4E5F6-GHIJ-7890-KLMN-1OPQRSTUVX",
+      "id": "41044718",
       "title": "Self-Driving Cars: AI Revolutionizing Transportation",
       "slug": "self-driving-cars-ai",
       "subtitle": "Autonomous vehicles powered by AI are closer than ever to mainstream adoption.",
@@ -53,15 +68,22 @@
       },
       "description": "AI-driven self-driving cars are transforming the way we travel, with safety and efficiency improvements.",
       "source": "TRT World",
-      "tags": ["AI", "Autonomous Vehicles", "Transportation"],
+      "tags": [
+        "AI",
+        "Autonomous Vehicles",
+        "Transportation"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800682/TRTWORLD/21429036_0-91-960-540_ajwlgm.jpg",
       "category": "Automotive",
       "content": "<h1>AI and the Future of Transportation</h1>\n\n<p>Major automakers are integrating AI into their autonomous vehicle systems, promising a future with fewer accidents and smoother traffic.</p>",
       "viewCount": 1203,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "D4E5F6G7-HIJK-8901-LMNO-2PQRSTUVWX",
+      "id": "85966295",
       "title": "Revolutionizing Medicine: How AI is Transforming Healthcare",
       "slug": "ai-healthcare",
       "subtitle": "Artificial intelligence is revolutionizing diagnostics and treatment planning.",
@@ -73,15 +95,22 @@
       },
       "description": "Healthcare is experiencing a transformation with AI-driven tools improving accuracy and efficiency.",
       "source": "TRT World",
-      "tags": ["AI", "Healthcare", "Medical Technology"],
+      "tags": [
+        "AI",
+        "Healthcare",
+        "Medical Technology"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800678/TRTWORLD/21380847_0-39-828-466_zgmk7c.jpg",
       "category": "Health",
       "content": "<h1>AI in Medicine</h1>\n\n<p>From detecting diseases to personalizing treatments, AI is playing a crucial role in modern healthcare.</p>",
       "viewCount": 1587,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "E7E5E1D9-9882-4D7E-B46B-6BC987DA8EEF",
+      "id": "81456303",
       "title": "AI-Powered Healthcare: A New Era of Medical Innovation",
       "slug": "ai-healthcare",
       "subtitle": "Artificial intelligence is revolutionizing diagnostics and treatment planning.",
@@ -93,15 +122,22 @@
       },
       "description": "Healthcare is experiencing a transformation with AI-driven tools improving accuracy and efficiency.",
       "source": "TRT World",
-      "tags": ["AI", "Healthcare", "Medical Technology"],
+      "tags": [
+        "AI",
+        "Healthcare",
+        "Medical Technology"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800678/TRTWORLD/21380847_0-39-828-466_zgmk7c.jpg",
       "category": "Health",
       "content": "<h1>AI in Medicine</h1>\n\n<p>From detecting diseases to personalizing treatments, AI is playing a crucial role in modern healthcare.</p>",
       "viewCount": 1587,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "A8B7C6D5-ED34-1234-5678-9ABCDE0F1234",
+      "id": "43977182",
       "title": "Revolutionizing Education with AI: Smart Classrooms on the Rise",
       "slug": "ai-education",
       "subtitle": "AI technologies are transforming how education is delivered and received.",
@@ -113,15 +149,23 @@
       },
       "description": "AI-powered smart classrooms are changing the way teachers teach and students learn, making education more personalized.",
       "source": "Tech Education Weekly",
-      "tags": ["AI", "Education", "Technology", "Innovation"],
+      "tags": [
+        "AI",
+        "Education",
+        "Technology",
+        "Innovation"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800302/TRTWORLD/21502981_0-0-1917-1080_fbn1nx.jpg",
       "category": "Education",
       "content": "<h1>AI in the Classroom</h1>\n\n<p>AI is becoming an integral part of education, enhancing learning experiences with personalized curricula and real-time feedback.</p>",
       "viewCount": 1234,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "B9C0D1E2-6F34-6789-9A0B-4CDE5F678GHI",
+      "id": "48963023",
       "title": "AI in Agriculture: Farming Goes High-Tech",
       "slug": "ai-agriculture",
       "subtitle": "Artificial intelligence is changing the landscape of modern farming.",
@@ -133,16 +177,23 @@
       },
       "description": "AI is helping farmers optimize crop yields, reduce waste, and improve sustainability.",
       "source": "AgriTech News",
-      "tags": ["AI", "Agriculture", "Technology", "Sustainability"],
+      "tags": [
+        "AI",
+        "Agriculture",
+        "Technology",
+        "Sustainability"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800301/TRTWORLD/21479994_526-862-4945-2785_kh5hln.jpg",
       "category": "Agriculture",
       "content": "<h1>AI and Precision Farming</h1>\n\n<p>AI-driven tools enable farmers to monitor crops in real-time and apply the exact amount of water, fertilizer, and pesticides needed for optimal growth.</p>",
       "viewCount": 978,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
-
     {
-      "id": "C0D1E2F3-4G56-7890-H1I2-JK3L4M567NOP",
+      "id": "94453165",
       "title": "AI and the Future of Retail: Personalized Shopping Experiences",
       "slug": "ai-retail",
       "subtitle": "Artificial intelligence is reshaping the retail industry with personalized shopping.",
@@ -154,15 +205,23 @@
       },
       "description": "AI-powered tools are revolutionizing retail by offering personalized shopping experiences, improving customer satisfaction.",
       "source": "Retail Innovators Digest",
-      "tags": ["AI", "Retail", "Technology", "Shopping"],
+      "tags": [
+        "AI",
+        "Retail",
+        "Technology",
+        "Shopping"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800304/TRTWORLD/21519362_0-488-4720-2658_grskzf.jpg",
       "category": "Retail",
       "content": "<h1>Personalized Shopping with AI</h1>\n\n<p>AI is helping retailers analyze customer preferences to deliver personalized product recommendations and a seamless shopping experience.</p>",
       "viewCount": 1356,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "D1E2F3G4-5H67-890I-J1K2-L3M4N5P6Q7R8",
+      "id": "72088130",
       "title": "AI and the Environment: Tackling Climate Change with Technology",
       "slug": "ai-climate-change",
       "subtitle": "AI technologies are playing a pivotal role in combating climate change.",
@@ -174,16 +233,23 @@
       },
       "description": "Artificial intelligence is being used to develop solutions for environmental monitoring, resource management, and carbon reduction.",
       "source": "EcoTech News",
-      "tags": ["AI", "Environment", "Climate Change", "Sustainability"],
+      "tags": [
+        "AI",
+        "Environment",
+        "Climate Change",
+        "Sustainability"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800310/TRTWORLD/21377135_0-30-1265-712_cbefb7.png",
       "category": "Environment",
       "content": "<h1>AI for a Greener Future</h1>\n\n<p>AI is being applied to track emissions, optimize energy consumption, and develop sustainable solutions for a healthier planet.</p>",
       "viewCount": 1110,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
-
     {
-      "id": "41145A82-04F3-4510-A600-76727F090A83",
+      "id": "97339113",
       "title": " Can Artificial Intelligence Improve Governance?",
       "slug": "ai-in-politics-governance",
       "subtitle": "Governments are exploring AI for decision-making and policy analysis.",
@@ -195,15 +261,22 @@
       },
       "description": "AI is increasingly being used to analyze policies, predict election outcomes, and enhance decision-making in governance.",
       "source": "Global Politics Review",
-      "tags": ["AI", "Politics", "Governance"],
+      "tags": [
+        "AI",
+        "Politics",
+        "Governance"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800671/TRTWORLD/21518463_0-239-4623-2603_w9uruq.jpg",
       "category": "Politics",
       "content": "<h1>AI in Governance</h1>\n\n<p>Many governments worldwide are leveraging artificial intelligence for better policy analysis, reducing bias, and improving governance efficiency.</p>",
       "viewCount": 892,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "X5Y6Z7A8-BCDE-9012-FGHI-3JKLMNOPQR",
+      "id": "90366354",
       "title": "The Role of Social Media in Modern Political Campaigns",
       "slug": "social-media-political-campaigns",
       "subtitle": "How digital platforms are shaping elections worldwide.",
@@ -215,15 +288,22 @@
       },
       "description": "From Twitter to TikTok, social media is playing an increasingly crucial role in political strategies and voter engagement.",
       "source": "Digital Democracy Report",
-      "tags": ["Politics", "Social Media", "Elections"],
+      "tags": [
+        "Politics",
+        "Social Media",
+        "Elections"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800669/TRTWORLD/21501813_0-96-3000-1689_hajmln.jpg",
       "category": "Politics",
       "content": "<h1>Social Media's Influence on Elections</h1>\n\n<p>Modern political campaigns are focusing heavily on digital outreach, using data-driven strategies to engage with voters.</p>",
       "viewCount": 1574,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "0382A784-FEA2-4187-A159-1CEB63335971",
+      "id": "95352758",
       "title": "The Role of Social Media in Modern Political Campaigns",
       "slug": "social-media-political-campaigns",
       "subtitle": "How digital platforms are shaping elections worldwide.",
@@ -235,15 +315,22 @@
       },
       "description": "From Twitter to TikTok, social media is playing an increasingly crucial role in political strategies and voter engagement.",
       "source": "Digital Democracy Report",
-      "tags": ["Politics", "Social Media", "Elections"],
+      "tags": [
+        "Politics",
+        "Social Media",
+        "Elections"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800669/TRTWORLD/21501813_0-96-3000-1689_hajmln.jpg",
       "category": "Politics",
       "content": "<h1>Social Media's Influence on Elections</h1>\n\n<p>Modern political campaigns are focusing heavily on digital outreach, using data-driven strategies to engage with voters.</p>",
       "viewCount": 1574,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "U9V8W7X6-YZAB-3456-CDEF-7GHIJKLMNOP",
+      "id": "73824080",
       "title": "Deepfake Threats: AI and Election Security",
       "slug": "deepfake-threats-election-security",
       "subtitle": "How AI-generated deepfakes are impacting political landscapes and voter trust.",
@@ -255,15 +342,23 @@
       },
       "description": "The rise of AI-generated deepfake videos is posing serious challenges to election integrity and public trust.",
       "source": "CyberSecurity Watch",
-      "tags": ["AI", "Cybersecurity", "Technology", "Election"],
+      "tags": [
+        "AI",
+        "Cybersecurity",
+        "Technology",
+        "Election"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800670/TRTWORLD/21516445_0-0-6000-3378_c6gabu.jpg",
       "category": "Politics",
       "content": "<h1>Deepfake Technology and Political Manipulation</h1>\n\n<p>AI-driven deepfake videos are being used for disinformation campaigns, making it harder to distinguish truth from fiction.</p>",
       "viewCount": 1342,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "7C4EA027-0A96-42A6-8340-92F1AD648A0F",
+      "id": "33104303",
       "title": "Quantum Computing Breakthroughs Reshape Cybersecurity",
       "slug": "quantum-computing-cybersecurity",
       "subtitle": "Experts warn that quantum advancements could render current encryption obsolete.",
@@ -275,15 +370,23 @@
       },
       "description": "Quantum computing is advancing at an unprecedented rate, raising concerns about the future of cybersecurity and encryption standards.",
       "source": "Tech Security Weekly",
-      "tags": ["Quantum Computing", "Cybersecurity", "AI", "Technology"],
+      "tags": [
+        "Quantum Computing",
+        "Cybersecurity",
+        "AI",
+        "Technology"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800306/TRTWORLD/21547557_0-27-1080-608_v8g3y1.jpg",
       "category": "Science & Tech",
       "content": "<h1>The Quantum Era and Cybersecurity</h1>\n\n<p>As companies make breakthroughs in quantum computing, traditional encryption methods are at risk.</p>",
       "viewCount": 2103,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "M3N4O5P6-QRST-7890-UVWX-12345YZABCD",
+      "id": "11641853",
       "title": "SpaceX's Mars Mission: First Crewed Test Flight Planned for 2026",
       "slug": "spacex-mars-mission-2026",
       "subtitle": "Elon Musk announces ambitious plans to send astronauts to Mars in early 2026.",
@@ -295,15 +398,23 @@
       },
       "description": "SpaceX has confirmed plans for its first crewed mission to Mars in 2026, marking a historic milestone in space exploration.",
       "source": "Space Exploration Weekly",
-      "tags": ["Quantum Computing", "Cybersecurity", "AI", "Technology"],
+      "tags": [
+        "Quantum Computing",
+        "Cybersecurity",
+        "AI",
+        "Technology"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800310/TRTWORLD/21388193_0-119-4584-2582_tinckr.jpg",
       "category": "Science & Tech",
       "content": "<h1>Preparing for the Red Planet</h1>\n\n<p>SpaceX is accelerating its plans to send humans to Mars, with testing already underway.</p>",
       "viewCount": 2754,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "T1E2C3H4-NL56-7890-XYZW-98765ABCDE",
+      "id": "95693824",
       "title": "Neuralink's Brain Chip Successfully Tested on First Human",
       "slug": "neuralink-brain-chip-human-trial",
       "subtitle": "Elon Musk confirms the first human received a Neuralink brain implant and is recovering well.",
@@ -327,11 +438,13 @@
       "category": "Science & Tech",
       "content": "<h1>The Future of Human-AI Integration</h1>\n\n<p>Neuralink's latest breakthrough could redefine how humans interact with machines, allowing for direct brain control of digital devices.</p>",
       "viewCount": 3210,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
-
     {
-      "id": "A1B2C3D4-5678-9012-EF34-56789GHIJKL",
+      "id": "18117276",
       "title": "2020 US Election: Disinformation Campaigns and Their Impact",
       "slug": "us-election-disinformation",
       "subtitle": "How fake news and misleading information shaped the 2020 presidential race.",
@@ -343,14 +456,18 @@
       },
       "description": "The role of disinformation in influencing the 2020 US Presidential Election has sparked debates on media responsibility.",
       "source": "Election Watch",
-      "tags": ["US Elections 2020", "Disinformation", "Politics"],
+      "tags": [
+        "US Elections 2020",
+        "Disinformation",
+        "Politics"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740174468/TRTWORLD/8375487_0-77-4771-2687_oxsifm.jpg",
       "category": "Politics",
       "content": "<h1>Election Integrity and the Media</h1><p>During the 2020 US elections, false narratives spread widely, impacting voter opinions and trust in the democratic process.</p>",
       "viewCount": 1421
     },
     {
-      "id": "B2C3D4E5-6789-0123-AB56-7890DEFGHIJ",
+      "id": "54477074",
       "title": "AI and Voter Manipulation in the 2020 US Elections",
       "slug": "ai-voter-manipulation-2020",
       "subtitle": "Exploring how artificial intelligence was used to sway public opinion in the 2020 presidential election.",
@@ -362,15 +479,22 @@
       },
       "description": "AI-driven campaigns and data analytics were deployed to target vulnerable voters during the 2020 US election cycle.",
       "source": "Tech Insider",
-      "tags": ["AI", "US Elections 2020", "Voter Manipulation"],
+      "tags": [
+        "AI",
+        "US Elections 2020",
+        "Voter Manipulation"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740174469/TRTWORLD/21561619_0-28-4159-2342_wmmdat.jpg",
       "category": "Technology",
       "content": "<h1>The Role of AI in Political Campaigns</h1><p>AI algorithms were harnessed to influence voter sentiment and manipulate voting behaviors during the contentious 2020 election season.</p>",
       "viewCount": 1345,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "C3D4E5F6-7890-1234-CD78-9012EFGHJKLM",
+      "id": "10108686",
       "title": "The US Elections 2020: Cybersecurity and Foreign Interference",
       "slug": "cybersecurity-us-election-2020",
       "subtitle": "An overview of how foreign governments attempted to interfere in the 2020 US elections through cyberattacks.",
@@ -382,15 +506,22 @@
       },
       "description": "Foreign actors used cyberattacks to attempt influencing the 2020 US elections, leading to increased awareness of electoral cybersecurity risks.",
       "source": "Cyber Defense Today",
-      "tags": ["US Elections 2020", "Cybersecurity", "Foreign Interference"],
+      "tags": [
+        "US Elections 2020",
+        "Cybersecurity",
+        "Foreign Interference"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739789832/TRTWORLD/biden_a2hzpj.jpg",
       "category": "Politics",
       "content": "<h1>Cybersecurity Risks in Modern Elections</h1><p>The 2020 US presidential election highlighted significant vulnerabilities in the digital infrastructure used during voting and election-day processes.</p>",
       "viewCount": 1120,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "D4E5F6G7-8901-2345-DE89-0123FGHIJKL",
+      "id": "33160067",
       "title": "Social Media and Election Influence: The 2020 US Election Crisis",
       "slug": "social-media-influence-2020-election",
       "subtitle": "Examining the role of social media platforms in shaping the outcome of the 2020 US elections.",
@@ -402,7 +533,11 @@
       },
       "description": "Social media played a significant role in how voters engaged with candidates, shaping perceptions and influencing decisions during the 2020 US elections.",
       "source": "Media Today",
-      "tags": ["Social Media", "US Elections 2020", "Politics"],
+      "tags": [
+        "Social Media",
+        "US Elections 2020",
+        "Politics"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800302/TRTWORLD/21501813_0-96-3000-1689_kcrthk.jpg",
       "category": "Politics",
       "content": "<h1>The Impact of Social Media on Voter Behavior</h1><p>Social media was used to spread targeted ads, memes, and other content that swayed the opinions of many American voters during the election season.</p>",
@@ -413,7 +548,7 @@
       }
     },
     {
-      "id": "A1B2C3D4-5678-9101-EF23-4567GHIJKLMN",
+      "id": "97862801",
       "title": "Azerbaijan-Armenia Border Tensions Rise Amid Diplomatic Efforts",
       "slug": "azerbaijan-armenia-border-tensions",
       "subtitle": "Escalating tensions between Azerbaijan and Armenia spark international concerns despite ongoing peace talks.",
@@ -425,15 +560,22 @@
       },
       "description": "Recent clashes along the Azerbaijan-Armenia border have raised concerns about the stability of the region, prompting calls for diplomatic intervention.",
       "source": "International News Network",
-      "tags": ["Azerbaijan-Armenia Dispute", "Diplomacy", "Conflict"],
+      "tags": [
+        "Azerbaijan-Armenia Dispute",
+        "Diplomacy",
+        "Conflict"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21565623_0-618-6047-3405_ewvqdk.jpg",
       "category": "Europe",
       "content": "<h1>Border Clashes and Peace Talks</h1><p>The ongoing dispute between Azerbaijan and Armenia has seen a new wave of escalations, with both sides accusing each other of ceasefire violations.</p>",
       "viewCount": 1247,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "A1B2C3D4-5678-9012-EF34-5678GHIJKLM",
+      "id": "43323247",
       "title": "Azerbaijan and Armenia: A Fragile Ceasefire Amid Rising Tensions",
       "slug": "azerbaijan-armenia-fragile-ceasefire",
       "subtitle": "Despite international mediation efforts, the conflict between Azerbaijan and Armenia remains a significant geopolitical challenge.",
@@ -445,7 +587,12 @@
       },
       "description": "Recent developments in the Azerbaijan-Armenia dispute have raised concerns over the stability of the region as both sides continue to accuse each other of violations.",
       "source": "Global News Network",
-      "tags": ["Azerbaijan", "Armenia", "Conflict", "Peace Talks"],
+      "tags": [
+        "Azerbaijan",
+        "Armenia",
+        "Conflict",
+        "Peace Talks"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740217536/TRTWORLD/21566438_0-88-5563-3133_iexazu.jpg",
       "category": "Europe",
       "content": "<h1>A Fragile Peace Between Azerbaijan and Armenia</h1><p>Despite international pressure, the ceasefire remains unstable, with both nations accusing each other of breaches.</p>",
@@ -456,7 +603,7 @@
       }
     },
     {
-      "id": "D4E5F6G7-8901-2345-DE89-0123FGHIJKL",
+      "id": "25152115",
       "title": "Armenia Dispute Escalates in the Eastern Mediterranean",
       "slug": "armenia-eastern-mediterranean-dispute",
       "subtitle": "Tensions rise between Azerbaijan and Armenia over territorial claims in the Eastern Mediterranean region.",
@@ -481,10 +628,13 @@
       "category": "International Affairs",
       "content": "<h1>The Escalating Conflict Between Azerbaijan and Armenia</h1><p>The dispute between Azerbaijan and Armenia over the Eastern Mediterranean has sparked a renewed wave of political tension in the region, with Turkey also playing a key role in these developments.</p>",
       "viewCount": 1234,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "A1B2C3D4-5678-9101-EF23-4567GHIJKLM",
+      "id": "69510709",
       "title": "Tensions Rise in the Eastern Mediterranean Over Territorial Disputes",
       "slug": "eastern-mediterranean-territorial-disputes",
       "subtitle": "Growing tensions in the Eastern Mediterranean as countries vie for control of maritime resources and strategic locations.",
@@ -508,10 +658,13 @@
       "category": "International Relations",
       "content": "<h1>The Growing Disputes Over Territorial Waters in the Eastern Mediterranean</h1><p>As countries in the Eastern Mediterranean stake their claims over the seas, the region has seen an increase in military presence and diplomatic tensions, with Turkey actively challenging rival claims.</p>",
       "viewCount": 1456,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "H2I3J4K5-6789-1011-LM23-4567NOPQRST",
+      "id": "71890959",
       "title": "Turkey's Role in the Mediterranean: Strategic Alliances and Challenges",
       "slug": "turkey-role-mediterranean-alliances-challenges",
       "subtitle": "Turkey continues to play a pivotal role in the Eastern Mediterranean, balancing alliances and facing new regional challenges.",
@@ -534,11 +687,13 @@
       "category": "Geopolitics",
       "content": "<h1>Turkey's Expanding Influence in the Mediterranean</h1><p>As tensions rise in the Eastern Mediterranean, Turkey's strategic alliances with neighboring countries are tested, while it faces increasing challenges from rival powers vying for control of vital maritime resources.</p>",
       "viewCount": 1123,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
-
     {
-      "id": "P9Q0R1S2-3456-7890-TU23-5678VWXZAB",
+      "id": "95629858",
       "title": "Turkey's Naval Operations in the Eastern Mediterranean Spark International Concerns",
       "slug": "turkey-naval-operations-eastern-mediterranean",
       "subtitle": "Turkey's recent naval operations in the Eastern Mediterranean are raising concerns among neighboring countries and global powers.",
@@ -561,11 +716,13 @@
       "category": "Geopolitics",
       "content": "<h1>The Growing Tensions Over Turkey's Naval Presence</h1><p>Turkey's recent naval operations in the Eastern Mediterranean have sparked reactions from neighboring countries and global powers, with concerns over regional stability and maritime rights.</p>",
       "viewCount": 1345,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
-
     {
-      "id": "A3B4C5D6-7890-1234-EF56-7890GHIJKLM",
+      "id": "27634507",
       "title": "Turkey and the Eastern Mediterranean: Navigating Regional Tensions",
       "slug": "turkey-eastern-mediterranean-regional-tensions",
       "subtitle": "Turkey's involvement in the Eastern Mediterranean is becoming a focal point in the region’s growing geopolitical struggles.",
@@ -588,10 +745,13 @@
       "category": "Geopolitics",
       "content": "<h1>Turkey's Strategic Position in the Eastern Mediterranean</h1><p>Turkey's assertive stance in the Eastern Mediterranean has sparked tensions with neighboring nations, who are vying for control of critical maritime resources, leaving the region in a delicate balance of power.</p>",
       "viewCount": 1567,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "B7C8D9E0-1234-5678-FG90-1234HIJKLMN",
+      "id": "26390642",
       "title": "Turkey's Influence in the Eastern Mediterranean Continues to Grow",
       "slug": "turkey-influence-eastern-mediterranean-grow",
       "subtitle": "Turkey's strategic moves in the Eastern Mediterranean are reshaping regional dynamics and attracting international attention.",
@@ -614,10 +774,13 @@
       "category": "Geopolitics",
       "content": "<h1>Turkey's Expanding Geopolitical Influence in the Eastern Mediterranean</h1><p>As Turkey strengthens its strategic alliances in the Eastern Mediterranean, tensions are rising with regional powers, leading to a reshaping of the area’s geopolitical landscape.</p>",
       "viewCount": 987,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "C8D9E0F1-2345-6789-GH01-2345IJKLMPQ",
+      "id": "79994450",
       "title": "Regional Alliances in the Eastern Mediterranean: Turkey's Rising Influence",
       "slug": "regional-alliances-turkey-eastern-mediterranean",
       "subtitle": "Turkey’s strategic partnerships in the Eastern Mediterranean are reshaping the balance of power in the region.",
@@ -640,11 +803,13 @@
       "category": "Geopolitics",
       "content": "<h1>Turkey’s Strategic Alliances and Regional Power Shifts</h1><p>As Turkey strengthens its alliances with key players in the Eastern Mediterranean, its influence is set to increase, challenging traditional power dynamics in the region.</p>",
       "viewCount": 1452,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
-
     {
-      "id": "D1E2F3G4-5678-9101-HI23-4567JKLMMN",
+      "id": "28790712",
       "title": "Turkey's Strategic Moves in the Eastern Mediterranean Spark Global Discussions",
       "slug": "turkey-strategic-moves-eastern-mediterranean",
       "subtitle": "Turkey's actions in the Eastern Mediterranean are becoming a central point of global geopolitical discussions.",
@@ -667,10 +832,13 @@
       "category": "International Relations",
       "content": "<h1>Turkey's Expanding Influence and the Global Reactions</h1><p>As Turkey increases its maritime operations and strategic alliances in the Eastern Mediterranean, global powers are closely watching the situation, raising concerns about the potential for broader conflicts.</p>",
       "viewCount": 1348,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "E2F3G4H5-6789-1011-JK23-4567LMNOPQ",
+      "id": "55724901",
       "title": "Turkey's Energy Exploration in the Eastern Mediterranean Stirs Controversy",
       "slug": "turkey-energy-exploration-eastern-mediterranean",
       "subtitle": "Turkey's energy exploration activities in the Eastern Mediterranean are fueling tensions with neighboring countries and international bodies.",
@@ -693,10 +861,13 @@
       "category": "Geopolitics",
       "content": "<h1>The Controversy Over Turkey's Energy Exploration</h1><p>Turkey's push to explore energy resources in the Eastern Mediterranean is leading to rising tensions with neighboring nations, who claim the area’s resources as their own, sparking a wider regional dispute.</p>",
       "viewCount": 1123,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "F3G4H5I6-7890-1234-JK56-7890LMNOPQ",
+      "id": "47041986",
       "title": "Turkey's Role in the Eastern Mediterranean: A Geopolitical Shift",
       "slug": "turkey-role-eastern-mediterranean-geopolitical-shift",
       "subtitle": "Turkey's growing influence in the Eastern Mediterranean is marking a significant shift in regional geopolitics and security dynamics.",
@@ -719,10 +890,13 @@
       "category": "Geopolitics",
       "content": "<h1>The Geopolitical Shift in the Eastern Mediterranean</h1><p>Turkey's increasing influence in the Eastern Mediterranean is challenging traditional power structures in the region, as it navigates competing interests with both regional and global powers.</p>",
       "viewCount": 1420,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "S1P2O3R4-5678-9101-AB12-3456CDEF789",
+      "id": "56123189",
       "title": "The Rise of eSports: A New Era in Competitive Gaming",
       "slug": "rise-of-esports-competitive-gaming",
       "subtitle": "eSports has evolved from a niche hobby to a global phenomenon, attracting millions of viewers and professional players.",
@@ -734,15 +908,23 @@
       },
       "description": "As eSports continues to grow in popularity, it is becoming one of the most lucrative and competitive fields in the world of sports.",
       "source": "Global Sports Review",
-      "tags": ["eSports", "Competitive Gaming", "Sports", "Gaming Industry"],
+      "tags": [
+        "eSports",
+        "Competitive Gaming",
+        "Sports",
+        "Gaming Industry"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740221345/TRTWORLD/17704959_0-0-5991-3374_vsb5eh.jpg",
       "category": "SPORT",
       "content": "<h1>The Growing Popularity of eSports</h1><p>eSports tournaments are attracting millions of viewers online, with top players earning millions of dollars in sponsorships and tournament winnings.</p>",
       "viewCount": 1325,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "M4A5G6A7Z8-9012-3456-BC78-9012STU345",
+      "id": "14972825",
       "title": "Hollywood’s Biggest Stars Gather for 2025 Academy Awards",
       "slug": "hollywood-stars-academy-awards-2025",
       "subtitle": "The 97th Academy Awards celebrate the best in film, with surprising wins and emotional speeches.",
@@ -754,15 +936,23 @@
       },
       "description": "The 2025 Oscars dazzled audiences with star-studded red carpet moments and historic wins, making it a night to remember.",
       "source": "Entertainment Weekly",
-      "tags": ["Academy Awards", "Hollywood", "Movies", "Red Carpet"],
+      "tags": [
+        "Academy Awards",
+        "Hollywood",
+        "Movies",
+        "Red Carpet"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739793300/TRTWORLD/21539144_0-155-3000-1689_uugxwh.jpg",
       "category": "MAGAZINE",
       "content": "<h1>A Night of Glamour at the 2025 Oscars</h1><p>The biggest names in Hollywood gathered for the 97th Academy Awards, where unexpected wins and emotional speeches stole the show. The event was marked by breathtaking fashion and unforgettable moments.</p>",
       "viewCount": 2890,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "24E878FC-07A7-440B-B63F-22CDB638B885",
+      "id": "36959231",
       "title": "Hollywood’s Biggest Stars Gather for 2025 Academy Awards",
       "slug": "hollywood-stars-academy-awards-2025",
       "subtitle": "The 97th Academy Awards celebrate the best in film, with surprising wins and emotional speeches.",
@@ -774,15 +964,23 @@
       },
       "description": "The 2025 Oscars dazzled audiences with star-studded red carpet moments and historic wins, making it a night to remember.",
       "source": "Entertainment Weekly",
-      "tags": ["Academy Awards", "Hollywood", "Movies", "Red Carpet"],
+      "tags": [
+        "Academy Awards",
+        "Hollywood",
+        "Movies",
+        "Red Carpet"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739793300/TRTWORLD/21539144_0-155-3000-1689_uugxwh.jpg",
       "category": "MAGAZINE",
       "content": "<h1>A Night of Glamour at the 2025 Oscars</h1><p>The biggest names in Hollywood gathered for the 97th Academy Awards, where unexpected wins and emotional speeches stole the show. The event was marked by breathtaking fashion and unforgettable moments.</p>",
       "viewCount": 2890,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     },
     {
-      "id": "4C89117F-F254-4DAA-9429-2BEBAB5E819A",
+      "id": "83101513",
       "title": "Hollywood’s Biggest Stars Gather for 2025 Academy Awards",
       "slug": "hollywood-stars-academy-awards-2025",
       "subtitle": "The 97th Academy Awards celebrate the best in film, with surprising wins and emotional speeches.",
@@ -794,22 +992,28 @@
       },
       "description": "The 2025 Oscars dazzled audiences with star-studded red carpet moments and historic wins, making it a night to remember.",
       "source": "Entertainment Weekly",
-      "tags": ["Academy Awards", "Hollywood", "Movies", "Red Carpet"],
+      "tags": [
+        "Academy Awards",
+        "Hollywood",
+        "Movies",
+        "Red Carpet"
+      ],
       "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739793300/TRTWORLD/21539144_0-155-3000-1689_uugxwh.jpg",
       "category": "MAGAZINE",
       "content": "<h1>A Night of Glamour at the 2025 Oscars</h1><p>The biggest names in Hollywood gathered for the 97th Academy Awards, where unexpected wins and emotional speeches stole the show. The event was marked by breathtaking fashion and unforgettable moments.</p>",
       "viewCount": 2890,
-      "video": { "link": null, "time": null }
+      "video": {
+        "link": null,
+        "time": null
+      }
     }
-    
   ],
-
   "topic": [
     {
       "topicName": "COVID-19",
       "news": [
         {
-          "id": "C1O2V3I4D5-6789-1011-AB12-3456XYZ123",
+          "id": "70090447",
           "title": "COVID-19: Early Warning Signs and Global Response in 2019",
           "slug": "covid-19-early-warning-response-2019",
           "subtitle": "As the first signs of the COVID-19 outbreak began to emerge, countries started preparing for a potential global pandemic.",
@@ -821,15 +1025,23 @@
           },
           "description": "In late 2019, several countries started reporting cases of a new respiratory illness, sparking international concern about a potential pandemic.",
           "source": "Health Today",
-          "tags": ["COVID-19", "Pandemic", "Health", "Global Response"],
+          "tags": [
+            "COVID-19",
+            "Pandemic",
+            "Health",
+            "Global Response"
+          ],
           "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740222307/TRTWORLD/0m_120387_AP_21242519702626_1639061841541_kz4nkg.jpg",
           "category": "Health",
           "content": "<h1>The First Cases of COVID-19 and Global Reactions</h1><p>In December 2019, reports began to surface from Wuhan, China, about a new respiratory illness. The global community started to monitor the situation closely, preparing for a potential pandemic.</p>",
           "viewCount": 2050,
-          "video": { "link": null, "time": null }
+          "video": {
+            "link": null,
+            "time": null
+          }
         },
         {
-          "id": "C6O7V8I9D0-1234-5678-AB90-1234LMN567",
+          "id": "52634260",
           "title": "World Health Organization Issues Warning ",
           "slug": "who-warning-unidentified-pneumonia-china-2019",
           "subtitle": "The World Health Organization raised concerns about an unidentified pneumonia outbreak in China, which would later be identified as COVID-19 About Unidentified Pneumonia in China About Unidentified Pneumonia in China",
@@ -852,10 +1064,13 @@
           "category": "Health",
           "content": "<h1>WHO Warns About Mysterious Pneumonia Cases in China</h1><p>In December 2019, the World Health Organization issued a health alert regarding an unusual pneumonia outbreak in Wuhan, China. The illness would later be identified as COVID-19, sparking global efforts to contain the virus.</p>",
           "viewCount": 1800,
-          "video": { "link": null, "time": null }
+          "video": {
+            "link": null,
+            "time": null
+          }
         },
         {
-          "id": "C5O6V7I8D9-2345-6789-AB01-2345JKL678",
+          "id": "77845728",
           "title": "Wuhan Hospital Sees Surge in Unexplained Pneumonia Cases",
           "slug": "wuhan-hospital-unexplained-pneumonia-cases-2019",
           "subtitle": "Hospitals in Wuhan report an unusual increase in pneumonia cases with no clear cause, sparking early concerns about a potential outbreak.",
@@ -867,15 +1082,23 @@
           },
           "description": "In December 2019, Wuhan's medical community noticed a significant rise in unexplained pneumonia cases, which would later be linked to the novel coronavirus.",
           "source": "Medical Daily",
-          "tags": ["COVID-19", "Pneumonia", "Wuhan", "Health Alert"],
+          "tags": [
+            "COVID-19",
+            "Pneumonia",
+            "Wuhan",
+            "Health Alert"
+          ],
           "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740222307/TRTWORLD/0m_80640_20200604T235310Z_607028008_RC2K2H95WPN5_RTRMADP_3_MINNEAPOLISPOLICENEWYORKMEMORIAL_1591356897482_dnowmy.jpg",
           "category": "Health",
           "content": "<h1>Wuhan Hospital Reports Unusual Pneumonia Cases</h1><p>Hospitals in Wuhan, China, began to report an alarming surge in pneumonia cases in December 2019, with many of the cases showing symptoms not seen in previous outbreaks, raising concerns of a possible new viral infection.</p>",
           "viewCount": 2200,
-          "video": { "link": "https://www.youtube.com/watch?v=eDBiAoF3pqs&pp=ygUYdnVoYW4gaG9zcGl0YWwgdHJ0IHdvbHJk", "time": "3:15" }
+          "video": {
+            "link": "https://www.youtube.com/watch?v=eDBiAoF3pqs&pp=ygUYdnVoYW4gaG9zcGl0YWwgdHJ0IHdvbHJk",
+            "time": "3:15"
+          }
         },
         {
-          "id": "C3O4V5I6D7-3456-7890-AB23-4567PQR890",
+          "id": "98978985",
           "title": "Mysterious Respiratory Illness Detected in Wuhan, China",
           "slug": "respiratory-illness-wuhan-china-2019",
           "subtitle": "Authorities in Wuhan begin investigating a new respiratory illness after a rise in unexplained pneumonia cases in the city.",
@@ -897,15 +1120,17 @@
           "category": "Health",
           "content": "<h1>Wuhan Investigates Unusual Respiratory Illness</h1><p>In early December 2019, authorities in Wuhan, China, began investigating an outbreak of unexplained respiratory illnesses in the city. Health officials expressed concern over the rising number of pneumonia cases, which would later be identified as COVID-19.</p>",
           "viewCount": 1900,
-          "video": { "link": null, "time": null }
+          "video": {
+            "link": null,
+            "time": null
+          }
         }
       ]
     }
   ],
-
   "advert": [
     {
-      "id": "4B3E85CD-FF97-4F80-8047-B25B12A5C878",
+      "id": "79570544",
       "title": "Download the Mobile App",
       "article": "Experience TRT World on the go with our mobile app. Stay updated with the latest news, watch live broadcasts, and explore in-depth stories anytime, anywhere.",
       "images": [
