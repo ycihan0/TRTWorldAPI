@@ -740,7 +740,28 @@
       "content": "<h1>The Growing Popularity of eSports</h1><p>eSports tournaments are attracting millions of viewers online, with top players earning millions of dollars in sponsorships and tournament winnings.</p>",
       "viewCount": 1325,
       "video": { "link": null, "time": null }
+    },
+    {
+      "id": "M4A5G6A7Z8-9012-3456-BC78-9012STU345",
+      "title": "Hollywood’s Biggest Stars Gather for 2025 Academy Awards",
+      "slug": "hollywood-stars-academy-awards-2025",
+      "subtitle": "The 97th Academy Awards celebrate the best in film, with surprising wins and emotional speeches.",
+      "publishedAt": "2025-02-18T20:00:00Z",
+      "newsDate": "2025-02-18T19:45:00Z",
+      "author": {
+        "name": null,
+        "image": null
+      },
+      "description": "The 2025 Oscars dazzled audiences with star-studded red carpet moments and historic wins, making it a night to remember.",
+      "source": "Entertainment Weekly",
+      "tags": ["Academy Awards", "Hollywood", "Movies", "Red Carpet"],
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739793300/TRTWORLD/21539144_0-155-3000-1689_uugxwh.jpg",
+      "category": "MAGAZINE",
+      "content": "<h1>A Night of Glamour at the 2025 Oscars</h1><p>The biggest names in Hollywood gathered for the 97th Academy Awards, where unexpected wins and emotional speeches stole the show. The event was marked by breathtaking fashion and unforgettable moments.</p>",
+      "viewCount": 2890,
+      "video": { "link": null, "time": null }
     }
+    
   ],
 
   "topic": [
