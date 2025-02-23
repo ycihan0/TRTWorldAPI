@@ -222,7 +222,7 @@
     },
     {
       "id": "72088130",
-      "title": "AI and the Environment: Tackling Climate Change with Technology",
+      "title": "AI for a Greener Future: Combating Climate Change with Innovation",
       "slug": "ai-climate-change",
       "subtitle": "AI technologies are playing a pivotal role in combating climate change.",
       "publishedAt": "2025-02-23T13:30:00Z",
@@ -239,8 +239,8 @@
         "Climate Change",
         "Sustainability"
       ],
-      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739800310/TRTWORLD/21377135_0-30-1265-712_cbefb7.png",
-      "category": "Environment",
+      "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740331717/Ba%C5%9Fl%C4%B1ks%C4%B1z-1_nv55eu.jpg",
+      "category": "Science & Tech",
       "content": "<h1>AI for a Greener Future</h1>\n\n<p>AI is being applied to track emissions, optimize energy consumption, and develop sustainable solutions for a healthier planet.</p>",
       "viewCount": 1110,
       "video": {
@@ -1120,136 +1120,6 @@
         "time": null
       }
     }
-  ],
-  "topic": [
-    {
-      "topicName": "COVID-19",
-      "news": [
-        {
-          "id": "70090447",
-          "title": "COVID-19: Early Warning Signs and Global Response in 2019",
-          "slug": "covid-19-early-warning-response-2019",
-          "subtitle": "As the first signs of the COVID-19 outbreak began to emerge, countries started preparing for a potential global pandemic.",
-          "publishedAt": "2019-12-15T08:00:00Z",
-          "newsDate": "2019-12-15T07:30:00Z",
-          "author": {
-            "name": null,
-            "image": null
-          },
-          "description": "In late 2019, several countries started reporting cases of a new respiratory illness, sparking international concern about a potential pandemic.",
-          "source": "Health Today",
-          "tags": [
-            "COVID-19",
-            "Pandemic",
-            "Health",
-            "Global Response"
-          ],
-          "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740222307/TRTWORLD/0m_120387_AP_21242519702626_1639061841541_kz4nkg.jpg",
-          "category": "Health",
-          "content": "<h1>The First Cases of COVID-19 and Global Reactions</h1><p>In December 2019, reports began to surface from Wuhan, China, about a new respiratory illness. The global community started to monitor the situation closely, preparing for a potential pandemic.</p>",
-          "viewCount": 2050,
-          "video": {
-            "link": null,
-            "time": null
-          }
-        },
-        {
-          "id": "52634260",
-          "title": "World Health Organization Issues Warning ",
-          "slug": "who-warning-unidentified-pneumonia-china-2019",
-          "subtitle": "The World Health Organization raised concerns about an unidentified pneumonia outbreak in China, which would later be identified as COVID-19 About Unidentified Pneumonia in China About Unidentified Pneumonia in China",
-          "publishedAt": "2019-12-31T10:00:00Z",
-          "newsDate": "2019-12-31T09:45:00Z",
-          "author": {
-            "name": null,
-            "image": null
-          },
-          "description": "In late December 2019, the WHO issued a warning about a mysterious pneumonia outbreak in Wuhan, China, that would soon become the center of a global health crisis.",
-          "source": "Global Health News",
-          "tags": [
-            "COVID-19",
-            "WHO",
-            "Pneumonia Outbreak",
-            "China",
-            "Global Health"
-          ],
-          "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740222307/TRTWORLD/0m_129722_asset_14661981_fhl21covid19pandemic_1649837011104_jmegc9.jpg",
-          "category": "Health",
-          "content": "<h1>WHO Warns About Mysterious Pneumonia Cases in China</h1><p>In December 2019, the World Health Organization issued a health alert regarding an unusual pneumonia outbreak in Wuhan, China. The illness would later be identified as COVID-19, sparking global efforts to contain the virus.</p>",
-          "viewCount": 1800,
-          "video": {
-            "link": null,
-            "time": null
-          }
-        },
-        {
-          "id": "77845728",
-          "title": "Wuhan Hospital Sees Surge in Unexplained Pneumonia Cases",
-          "slug": "wuhan-hospital-unexplained-pneumonia-cases-2019",
-          "subtitle": "Hospitals in Wuhan report an unusual increase in pneumonia cases with no clear cause, sparking early concerns about a potential outbreak.",
-          "publishedAt": "2019-12-20T14:00:00Z",
-          "newsDate": "2019-12-20T13:45:00Z",
-          "author": {
-            "name": null,
-            "image": null
-          },
-          "description": "In December 2019, Wuhan's medical community noticed a significant rise in unexplained pneumonia cases, which would later be linked to the novel coronavirus.",
-          "source": "Medical Daily",
-          "tags": [
-            "COVID-19",
-            "Pneumonia",
-            "Wuhan",
-            "Health Alert"
-          ],
-          "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740222307/TRTWORLD/0m_80640_20200604T235310Z_607028008_RC2K2H95WPN5_RTRMADP_3_MINNEAPOLISPOLICENEWYORKMEMORIAL_1591356897482_dnowmy.jpg",
-          "category": "Health",
-          "content": "<h1>Wuhan Hospital Reports Unusual Pneumonia Cases</h1><p>Hospitals in Wuhan, China, began to report an alarming surge in pneumonia cases in December 2019, with many of the cases showing symptoms not seen in previous outbreaks, raising concerns of a possible new viral infection.</p>",
-          "viewCount": 2200,
-          "video": {
-            "link": "https://www.youtube.com/watch?v=eDBiAoF3pqs&pp=ygUYdnVoYW4gaG9zcGl0YWwgdHJ0IHdvbHJk",
-            "time": "3:15"
-          }
-        },
-        {
-          "id": "98978985",
-          "title": "Mysterious Respiratory Illness Detected in Wuhan, China",
-          "slug": "respiratory-illness-wuhan-china-2019",
-          "subtitle": "Authorities in Wuhan begin investigating a new respiratory illness after a rise in unexplained pneumonia cases in the city.",
-          "publishedAt": "2019-12-10T11:00:00Z",
-          "newsDate": "2019-12-10T10:45:00Z",
-          "author": {
-            "name": "Ethan Johnson",
-            "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1722165401/food-ordering/ktcv3zhtzur84ymo2dhk.jpg"
-          },
-          "description": "Wuhan officials report an increase in cases of a mysterious respiratory illness, prompting health experts to begin investigating the cause, which would later be linked to COVID-19.",
-          "source": "China Health News",
-          "tags": [
-            "COVID-19",
-            "Respiratory Illness",
-            "Wuhan",
-            "Health Investigation"
-          ],
-          "image": "https://res.cloudinary.com/dlg7azrx0/image/upload/v1740222307/TRTWORLD/0m_129722_asset_14661981_fhl21covid19pandemic_1649837011104_jmegc9.jpg",
-          "category": "Health",
-          "content": "<h1>Wuhan Investigates Unusual Respiratory Illness</h1><p>In early December 2019, authorities in Wuhan, China, began investigating an outbreak of unexplained respiratory illnesses in the city. Health officials expressed concern over the rising number of pneumonia cases, which would later be identified as COVID-19.</p>",
-          "viewCount": 1900,
-          "video": {
-            "link": null,
-            "time": null
-          }
-        }
-      ]
-    }
-  ],
-  "advert": [
-    {
-      "id": "79570544",
-      "title": "Download the Mobile App",
-      "article": "Experience TRT World on the go with our mobile app. Stay updated with the latest news, watch live broadcasts, and explore in-depth stories anytime, anywhere.",
-      "images": [
-        "https://res.cloudinary.com/dlg7azrx0/image/upload/v1739740316/TRTWORLD/mobileapp_qjlk2v.jpg"
-      ],
-      "description": "Available now on iOS & Android | Download Today!"
-    }
   ]
+  
 }
